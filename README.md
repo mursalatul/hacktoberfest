@@ -57,14 +57,14 @@ cd hacktoberfest-2025
 Create a new folder with your project name inside the appropriate language directory:
 ```
 hacktoberfest-2025/
-├── Python/
+├── python/
 │   └── YourProjectName/
 │       ├── main.py
 │       └── README.md
-├── C/
-├── C++/
-├── Java/
-├── JavaScript/
+├── c/
+├── c++/
+├── java/
+├── javaScript/
 └── ...
 ```
 
@@ -145,8 +145,6 @@ ones by adding new features or fixing bugs. After all, that’s what we programm
 </tr>
 </table>
 
-Star ⭐ this repository to show your support!
-
 ---
 
 ## 📞 Need Help?
@@ -178,9 +176,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 **Made with ❤️ for the Open Source Community**
 
 ### Don't forget to tag your PRs with `#hacktoberfest` and `#hacktoberfest2025`
-
-![Hacktoberfest Banner](https://repository-images.githubusercontent.com/411197619/7c5289d5-7ddb-4de5-b65c-3d0bc5dd3bb7)
-
 **⭐ Star this repo | 🍴 Fork it | 🔥 Contribute to it**
 
 </div>
