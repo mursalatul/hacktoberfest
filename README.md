@@ -124,8 +124,7 @@ ones by adding new features or fixing bugs. After all, that’s what we programm
 ---
 
 ## 🏆 Recognition
-
-All contributors will be featured in our [CONTRIBUTORS.md](CONTRIBUTORS.md) file! 
+### Contributors
 
 Star ⭐ this repository to show your support!
 
